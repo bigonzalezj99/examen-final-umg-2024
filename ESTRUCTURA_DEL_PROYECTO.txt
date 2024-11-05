@@ -1,0 +1,53 @@
+tareas-api/
+├── classes/
+│   ├── Correo.php
+│   └── Paginación.php
+├── controllers/
+│   └── AuthController.php
+├── core/
+│   ├── config/
+│   ├── controllers/
+│   ├── frontend/
+│   │   ├── public/
+│   │   ├── src/
+│   │   ├── .env
+│   │   ├── package.json
+│   │   └── package-lock.json
+│   ├── models/
+│   ├── routes/
+│   ├── .env
+│   ├── package.json
+│   ├── package-lock.json
+│   └── server.js
+├── includes/
+│   ├── config/
+│   │   └── conexion.php
+│   ├── .env
+│   ├── app.php
+│   └── funciones.php
+├── models/
+│   └── ActiveRecord.php
+├── node_modules/
+├── public/
+│   ├── build/
+│   │   ├── css/
+│   │   ├── img/
+│   │   └── js/
+│   ├── img/
+│   ├── .htaccess
+│   └── index.php
+├── src/
+│   ├── img/
+│   ├── js/
+│   └── scss/
+├── vendor/
+├── views/
+├── composer.json
+├── composer.lock
+├── gulpfile.js
+├── package.json
+├── package-lock.json
+└── Router.php
+
+
+NOTA: ESTE ES EL DIRECTORIO ORIGINAL, PERO ALGUNAS COSAS FUERON EVITADAS EN EL REPOSITORIO DE GIT POR MOTIVOS DE ESPACIO, COMO POR EJEMPLO LOS ARCHIVOS NODE-MODULES, ETC.

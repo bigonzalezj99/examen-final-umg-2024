@@ -1,0 +1,21 @@
+# Ignorar archivos de configuración de entorno
+.env
+
+# Ignorar carpetas de dependencias
+node_modules/
+vendor/
+
+# Ignorar archivos de paquetes de Node.js
+package-lock.json
+
+# Ignorar archivos de paquetes de Composer
+composer.lock
+
+# Ignorar archivos temporales y de sistema
+.DS_Store
+Thumbs.db
+*.log
+
+# Ignorar archivos de configuración del editor (ej. VSCode)
+.vscode/
+.idea/
